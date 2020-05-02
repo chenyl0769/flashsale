@@ -1,6 +1,6 @@
 # flashsale
-springcloud简单构建的电商秒杀系统
-框架使用springboot+mybaits+redis+rabbitmq
+springcloud简单构建的电商秒杀系统<br>
+框架使用springboot+mybaits+redis+rabbitmq,前端简单使用vue<br>
 时间服务：flashsaletimeserver 用于统一系统时间，获取当前时间
 用户服务：flashsaleuser 用于用户登录和注册服务
 服务中心：flashsaleserver 用于服务注册和服务发现
